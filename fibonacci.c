@@ -1,5 +1,6 @@
 /* this program is to explain the fibonnaci 
  * series program ....
+*  1 2 3 5 8 13 21
  */
 #include <stdio.h>
 
