@@ -1,3 +1,6 @@
+/* 
+ * it is test the power operation
+*/
 #include <stdio.h>
 
 int power(int base, int n)
